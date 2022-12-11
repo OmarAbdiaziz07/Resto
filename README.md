@@ -1,6 +1,6 @@
 # Resto
 
-A simple restaurant menu website developed HTML & CSS 
+A simple restaurant menu website developed using HTML & CSS.
 
 ## Installation
 
